@@ -1,0 +1,23 @@
+
+  // Footer.vue
+<template>
+  <footer class="bg-dark text-white text-center py-3">
+    <div class="container">
+      <p>&copy; 2025 XPEDITEC. Todos los derechos reservados.</p>
+      <ul class="list-inline">
+        <li class="list-inline-item"><a href="#" class="text-white">Política de privacidad</a></li>
+        <li class="list-inline-item"><a href="#" class="text-white">Términos de servicio</a></li>
+      </ul>
+    </div>
+  </footer>
+</template>
+
+<script>
+export default {
+  name: 'Footer'
+}
+</script>
+
+<style scoped>
+/* agregar estilos aquí */
+</style>
